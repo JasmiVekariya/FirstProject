@@ -1,3 +1,11 @@
+/*
+FILE           :  f2.cpp
+PROJECT        :  Focused Assignment 2
+PROGRAMMER     :  Jasmi Devjibhai Vekariya (8960251)
+Student ID     :  Jvekariya0251@conestogac.on.ca
+FIRST VERSION  :  01-25-2024
+DESCRIPTION    :  This program delineates the code which displays an addition of numbers ranging from 1 to 500 by using while loop and arithmetic operators.
+*/
 #include <stdio.h>
 
 int main()
@@ -17,4 +25,4 @@ int main()
 
     printf("%d", sum);
     return 0;
-}
+}   
